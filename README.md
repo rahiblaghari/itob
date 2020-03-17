@@ -1,2 +1,2 @@
 # itob
-ip to binary
+integer to binary
